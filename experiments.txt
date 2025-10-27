@@ -1,0 +1,12 @@
+transformers
+datasets
+accelerate
+evaluate
+torch        # or torch + cuda build
+sentencepiece   # if needed for T5
+tokenizers
+wandb   # optional for logging
+streamlit or gradio
+scikit-learn
+rouge_score
+nltk
